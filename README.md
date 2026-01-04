@@ -7,10 +7,11 @@ This project focuses on **clarity, correctness, and clean React fundamentals**, 
 ---
 
 ## 🚀 Live Demo
-👉 https://\<your-username\>.github.io/mini-ecommerce/
+👉 https://kunwarpratap93.github.io/mini-ecommerce/
+
 
 ## 📦 GitHub Repository
-👉 https://github.com/\<your-username\>/mini-ecommerce
+👉 https://github.com/kunwarPratap93/mini-ecommerce
 
 ---
 
